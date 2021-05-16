@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cart-demo/static/css/main.9ff3368c.chunk.css",
+    "main.js": "/cart-demo/static/js/main.26f4ad3d.chunk.js",
+    "main.js.map": "/cart-demo/static/js/main.26f4ad3d.chunk.js.map",
+    "runtime-main.js": "/cart-demo/static/js/runtime-main.6a1469b9.js",
+    "runtime-main.js.map": "/cart-demo/static/js/runtime-main.6a1469b9.js.map",
+    "static/js/2.bd4778a7.chunk.js": "/cart-demo/static/js/2.bd4778a7.chunk.js",
+    "static/js/2.bd4778a7.chunk.js.map": "/cart-demo/static/js/2.bd4778a7.chunk.js.map",
+    "index.html": "/cart-demo/index.html",
+    "static/css/main.9ff3368c.chunk.css.map": "/cart-demo/static/css/main.9ff3368c.chunk.css.map",
+    "static/js/2.bd4778a7.chunk.js.LICENSE.txt": "/cart-demo/static/js/2.bd4778a7.chunk.js.LICENSE.txt",
+    "static/media/style.module.css": "/cart-demo/static/media/chevron-down.637c1521.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a1469b9.js",
+    "static/js/2.bd4778a7.chunk.js",
+    "static/css/main.9ff3368c.chunk.css",
+    "static/js/main.26f4ad3d.chunk.js"
+  ]
+}
