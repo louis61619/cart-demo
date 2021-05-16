@@ -1,0 +1,41 @@
+.block {
+  flex: 1;
+  padding: 0px 32px;
+  display: flex;
+  position: relative;
+}
+
+.right {
+  padding-left: 16px;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+  background-color:#33a3ce;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 50px;
+  cursor: pointer;
+}
+
+.commit {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.commit button {
+  background-color: #fff;
+  padding: 16px 32px;
+  margin-right: 300px;
+  border: 1px solid #40a9ff;
+}
+
+.commit button:active {
+  background-color: #40a9ff;
+  color: #fff;
+}

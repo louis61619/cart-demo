@@ -1,0 +1,23 @@
+.block {
+  display: flex;
+  flex: 1;
+}
+
+.selectArea {
+  padding: 0px 32px;
+}
+
+.selectTitle {
+  margin-right: 8px;
+}
+
+.select {
+  width: 100px;
+  border: 1px solid #d9d9d9;
+  padding: 4px 8px;
+  font-size: 16px;
+}
+
+.right {
+  flex: 1;
+}

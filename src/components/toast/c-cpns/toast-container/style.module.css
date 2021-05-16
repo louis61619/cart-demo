@@ -1,0 +1,13 @@
+.box {
+  position: fixed;
+  top: 12%;
+  left: 50%;
+  transform: translatex(-50%);
+  border: 1px solid black;
+  background-color: black;
+  padding: 4px 16px;
+}
+
+.content {
+  color: #fff;
+}

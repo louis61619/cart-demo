@@ -1,0 +1,33 @@
+.card {
+  /* width: 80%; */
+  width: 500px;
+  border-top: 1px solid #d9d9d9;
+  padding: 24px 32px;
+}
+
+.card > div {
+  margin-bottom: 8px;
+}
+
+.input {
+  width: 80%;
+  border: 1px solid #d9d9d9;
+  padding: 6.5px 11px;
+  font-size: 16px;
+}
+
+.input:hover {
+  border-color: #40a9ff;
+}
+
+.input:focus {
+  border-color: #40a9ff;
+  outline: 0;
+}
+
+.select {
+  width: 100px;
+  border: 1px solid #d9d9d9;
+  padding: 6.5px 11px;
+  font-size: 16px;
+}

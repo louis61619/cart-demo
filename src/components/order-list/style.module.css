@@ -1,0 +1,103 @@
+.list {
+  display: flex;
+  width: 60%;
+  flex-direction: column;
+}
+
+.title {
+  background-color: #d9d9d9;
+  width: 100%;
+  padding: 16px 16px;
+  display: flex;
+  align-items: center;
+}
+
+.title .text {
+  padding-left: 16px;
+  border-left: 4px solid #62c126;
+}
+
+.cancel {
+  margin-left: auto;
+}
+
+.cancel button {
+  background-color: #fff;
+  padding: 4px 8px;
+  border: 1px solid #40a9ff;
+}
+
+.cancel button:active {
+  background-color: #40a9ff;
+  color: #fff;
+}
+
+.listItem {
+  height: 120px;
+  width: 100%;
+  background-color: #fff;
+  display: flex;
+  padding: 10px 12px;
+  border-top: 1px solid #d9d9d9;
+  border-left: 1px solid #d9d9d9;
+  border-right: 1px solid #d9d9d9;
+}
+
+.image {
+  width: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image img {
+  width: 80%;
+}
+
+.content {
+  flex: 1;
+  padding: 0 4px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 0;
+}
+.complete {
+  color: gray;
+}
+
+.process {
+  color: #62c126
+}
+
+.bottom {
+  flex: 1;
+  padding: 16px 0;
+}
+
+.bottom div {
+  height: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+}
+
+.checkbox input {
+  height: 16px;
+  width: 16px;
+}
+
